@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/NombaOSS/.github/blob/main/SECURITY.md
+    about: Please report security problems privately, never in a public issue.
+  - name: Nomba account or API support
+    url: https://developer.nomba.com
+    about: Questions about your account, API keys or the Nomba API itself.
