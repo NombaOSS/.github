@@ -4,7 +4,7 @@ Official, open-source tools for building on the [Nomba](https://nomba.com) payme
 
 | Project | What it is | Install |
 |---|---|---|
-| [Nomba Node.js SDK](https://github.com/NombaOSS/nomba-node) | TypeScript and Node.js SDK | `npm install @nombaoss/nomba-node` |
+| [Nomba Node.js SDK](https://github.com/NombaOSS/nomba-node-sdk) | TypeScript and Node.js SDK | `npm install @nomba/node-sdk` |
 | [Nomba Python SDK](https://github.com/NombaOSS/nomba-python) | Python SDK, sync and async | `pip install nomba` |
 | [Nomba PHP SDK](https://github.com/NombaOSS/nomba-php) | PHP 8.1+ SDK | `composer require nombaoss/nomba-php` |
 | [Nomba MCP Server](https://github.com/NombaOSS/nomba-mcp) | The Nomba API as tools for AI apps | `npx -y @nombaoss/nomba-mcp` |
